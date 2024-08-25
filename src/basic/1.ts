@@ -14,3 +14,4 @@ const callback = (a: number): number => {
   return 100 + a;
 };
 console.log(callback(5));
+export {};
